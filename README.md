@@ -1,2 +1,2 @@
-# jleaf
-JLEAF - Java Lightweight Enterprise Application Framework
+# xleaf
+XLEAF - Xpress Lightweight Enterprise Application Framework
